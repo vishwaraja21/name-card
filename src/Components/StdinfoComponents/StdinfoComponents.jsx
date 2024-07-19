@@ -12,10 +12,7 @@ const StdinfoComponents = () => {
     return (
     <div className="container">
       <div className="card">
-        <div className="icon">
-           
-          <img src={img} alt="Eye Icon" />
-        </div>
+       
         <p><h4>Name: Vishwaraja R</h4></p>
         <p>Registration No: 212221220060</p>
         <button className="toggle-button" onClick={togglevisibility}>
